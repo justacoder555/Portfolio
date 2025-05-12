@@ -1,0 +1,44 @@
+/* cursors.css */
+[data-cursor-default]    { cursor: url("/public/media/cursor/dark/default_32.svg"), auto; }
+[data-cursor-alias]      { cursor: url("/public/media/cursor/dark/alias_32.svg"), auto; }
+[data-cursor-copy]       { cursor: url("/public/media/cursor/dark/copy_32.svg"), auto; }
+[data-cursor-allScroll]  { cursor: url("/public/media/cursor/dark/all-scroll_32.svg"), auto; }
+[data-cursor-cell]       { cursor: url("/public/media/cursor/dark/cell_32.svg"), auto; }
+[data-cursor-colResize]  { cursor: url("/public/media/cursor/dark/col-resize_32.svg"), auto; }
+[data-cursor-contextMenu]{ cursor: url("/public/media/cursor/dark/context-menu_32.svg"), auto; }
+[data-cursor-crosshair]  { cursor: url("/public/media/cursor/dark/crosshair_32.svg"), auto; }
+[data-cursor-down]       { cursor: url("/public/media/cursor/dark/down_32.svg"), auto; }
+[data-cursor-eResize]    { cursor: url("/public/media/cursor/dark/e-resize_32.svg"), auto; }
+[data-cursor-ewResize]   { cursor: url("/public/media/cursor/dark/ew-resize_32.svg"), auto; }
+[data-cursor-grab]       { cursor: url("/public/media/cursor/dark/grab_32.svg"), auto; }
+[data-cursor-grabbing]   { cursor: url("/public/media/cursor/dark/grabbing_32.svg"), auto; }
+[data-cursor-help]       { cursor: url("/public/media/cursor/dark/help_32.svg"), auto; }
+[data-cursor-left]       { cursor: url("/public/media/cursor/dark/left_32.svg"), auto; }
+[data-cursor-move]       { cursor: url("/public/media/cursor/dark/move_32.svg"), auto; }
+[data-cursor-neResize]   { cursor: url("/public/media/cursor/dark/ne-resize_32.svg"), auto; }
+[data-cursor-neswResize] { cursor: url("/public/media/cursor/dark/nesw-resize_32.svg"), auto; }
+[data-cursor-noDrop]     { cursor: url("/public/media/cursor/dark/no-drop_32.svg"), auto; }
+[data-cursor-notAllowed] { cursor: url("/public/media/cursor/dark/not-allowed_32.svg"), auto; }
+[data-cursor-nResize]    { cursor: url("/public/media/cursor/dark/n-resize_32.svg"), auto; }
+[data-cursor-nsResize]   { cursor: url("/public/media/cursor/dark/ns-resize_32.svg"), auto; }
+[data-cursor-nwResize]   { cursor: url("/public/media/cursor/dark/nw-resize_32.svg"), auto; }
+[data-cursor-nwseResize] { cursor: url("/public/media/cursor/dark/nwse-resize_32.svg"), auto; }
+[data-cursor-pen]        { cursor: url("/public/media/cursor/dark/pen_32.svg"), auto; }
+[data-cursor-pencil]     { cursor: url("/public/media/cursor/dark/pencil_32.svg"), auto; }
+[data-cursor-pipette]    { cursor: url("/public/media/cursor/dark/pipette_32.svg"), auto; }
+[data-cursor-pointer]    { cursor: url("/public/media/cursor/dark/pointer_32.svg"), auto; }
+[data-cursor-progress]   { cursor: url("/public/media/cursor/dark/progress_32.svg"), auto; }
+[data-cursor-right]      { cursor: url("/public/media/cursor/dark/right_32.svg"), auto; }
+[data-cursor-rockAndRoll]{ cursor: url("/public/media/cursor/dark/rock_and_roll_32.svg"), auto; }
+[data-cursor-rowResize]  { cursor: url("/public/media/cursor/dark/row-resize_32.svg"), auto; }
+[data-cursor-seResize]   { cursor: url("/public/media/cursor/dark/se-resize_32.svg"), auto; }
+[data-cursor-skull]      { cursor: url("/public/media/cursor/dark/skull_32.svg"), auto; }
+[data-cursor-sResize]    { cursor: url("/public/media/cursor/dark/s-resize_32.svg"), auto; }
+[data-cursor-swResize]   { cursor: url("/public/media/cursor/dark/sw-resize_32.svg"), auto; }
+[data-cursor-text]       { cursor: url("/public/media/cursor/dark/text_32.svg"), auto; }
+[data-cursor-up]         { cursor: url("/public/media/cursor/dark/up_32.svg"), auto; }
+[data-cursor-verticalText]{ cursor: url("/public/media/cursor/dark/vertical-text_32.svg"), auto; }
+[data-cursor-wait]       { cursor: url("/public/media/cursor/dark/wait_32.svg"), auto; }
+[data-cursor-wResize]    { cursor: url("/public/media/cursor/dark/w-resize_32.svg"), auto; }
+[data-cursor-zoomIn]     { cursor: url("/public/media/cursor/dark/zoom-in_32.svg"), auto; }
+[data-cursor-zoomOut]    { cursor: url("/public/media/cursor/dark/zoom-out_32.svg"), auto; }

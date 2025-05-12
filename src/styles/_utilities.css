@@ -1,0 +1,39 @@
+/* === Utilities === */
+
+/* Center content */
+.u-center {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+/* Margins */
+.mt-sm { margin-top: var(--sp-sm); } 
+.mt-md { margin-top: var(--sp-md); } 
+.mt-lg { margin-top: var(--sp-lg); } 
+
+.mb-sm { margin-bottom: var(--sp-sm); } 
+.mb-md { margin-bottom: var(--sp-md); } 
+.mb-lg { margin-bottom: var(--sp-lg); } 
+
+.ml-sm { margin-left: var(--sp-sm); } 
+.ml-md { margin-left: var(--sp-md); } 
+.ml-lg { margin-left: var(--sp-lg); } 
+
+.mr-sm { margin-right: var(--sp-sm); } 
+.mr-md { margin-right: var(--sp-md); } 
+.mr-lg { margin-right: var(--sp-lg); } 
+
+.m-sm { margin: var(--sp-sm); } 
+.m-md { margin: var(--sp-md); }
+.m-lg { margin: var(--sp-lg); }
+
+/* Text utilities */
+.text-truncate {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/* === Future Utilities === */
+/* Add new utility classes here for scalability */

@@ -1,0 +1,53 @@
+:root {
+    /* === Colors === */
+    --clr-bg-light: #0a0a0a;
+    --clr-bg-dark: #161616;
+    --clr-bg-primary: rgba(159, 0, 231, 0.2);
+    --clr-primary: rgba(159, 0, 231, 0.44);
+    --clr-text: #ffffff;
+    --clr-accent: #d0a0ff; /* For hover or accent elements */
+    --clr-border: rgba(255, 255, 255, 0.1);
+
+    /* === Spacing === */
+    --sp-xs: 4px;
+    --sp-sm: 8px;
+    --sp-md: 16px;
+    --sp-lg: 32px;
+    --sp-xl: 64px; /* For larger spacing needs */
+
+    /* === Typography === */
+    --ff-sans: 'Roboto Slab', sans-serif;
+    --fs-h1: 3rem;
+    --fs-h1-sm: 2rem;
+    --fs-h2: 2.5rem;
+    --fs-h2-sm: 1.5rem;
+    --fs-body: 1rem; /* For body text */
+    --fw-bold: 900;
+    --fw-regular: 400;
+
+    /* === Transitions === */
+    --trans-default: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+
+    /* === Body Styles === */
+    --body-overflow: hidden; /* Default behavior for body overflow */
+
+    /* === Section Styles === */
+    --section-overflow: hidden; /* Default behavior for section overflow */
+
+    /* === Backgrounds === */
+    --bg-fallback: url("/public/media/BG/among-trees.800X450-resize.gif") no-repeat #0e090e;
+    --bg-hd: url("/public/media/BG/among-trees.1920x1080.gif") no-repeat #0e090e;
+    --bg-pos: center;
+
+    /* === Borders === */
+    --br-sm: 4px;
+    --br-md: 8px;
+    --br-lg: 16px;
+
+    /* === Shadows === */
+    --shadow-default: 0 8px 32px rgba(0, 0, 0, 0.2);
+    --shadow-hover: 0 0 60px rgba(150, 50, 255, 0.1);
+
+    /* === Future Variables === */
+    /* Add new variables here for scalability */
+}

@@ -1,0 +1,16 @@
+{
+  "roles": [
+    "$WhoAmI",
+    "Game Developer",
+    "Web Developer",
+    "Programmer",
+    "Dreamer"
+  ],
+  
+  "socials": {
+    "linkedin"    :   "https://www.linkedin.com/in/darshit-limbad/",
+    "github"      :   "https://github.com/darshitlimbad",
+    "instagram"   :   "https://www.instagram.com/just.a.coder.555/"
+  }
+}
+  

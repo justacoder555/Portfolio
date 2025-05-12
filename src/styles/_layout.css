@@ -1,0 +1,44 @@
+/* === Layout === */
+
+/* Global container */
+.container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+  
+/* Modifier for centered layout */
+.container--centered {
+    justify-content: center;
+    align-items: start;
+    height: 100vh;
+    margin: 20px 20%;
+}
+  
+/* Responsive */
+@media (max-width: 768px) {
+    .container--centered {
+        align-items: center;
+        margin: 10px 10%;
+    }
+}
+  
+/* Intro block */
+.intro {
+    width: 100%;
+    display: flow-root;
+    transform: translateY(-4em);
+    z-index: 10;
+}
+  
+/* Footer positioning */
+.footer {
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    text-align: center;
+    padding: var(--space-md);
+}
+
+/* === Future Layout Styles === */
+/* Add new layout styles here for scalability */
